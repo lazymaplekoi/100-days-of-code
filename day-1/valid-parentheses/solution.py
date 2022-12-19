@@ -19,11 +19,3 @@ class Solution:
                     return False
         
         return not(len(parens))
-
-if __name__ == '__main__':
-
-    test_cases = ["(){}}{"]
-
-    sol = Solution()
-    for case in test_cases:
-        print(sol.isValid(case))
