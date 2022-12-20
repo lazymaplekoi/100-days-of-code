@@ -9,7 +9,10 @@
 3. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 
 ### Day 2
-4. [Next Greater Element I
-](https://leetcode.com/problems/next-greater-element-i)
-5. [Daily Temperatures
-](https://leetcode.com/problems/daily-temperatures/)
+4. [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i)
+5. [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
+
+### Day 3
+6. [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
+7. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
+8. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
